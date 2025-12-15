@@ -2,7 +2,7 @@
 
 i'm Arjun, a backend developer based in India.
 
-i like to learn to new things and love problem Solving.
+i like to learn new things and love problem Solving.
 
-i am have Done my first Backend project called Persona Engine its in my Projects Repo.
+i am currently doing my first Backend project called Persona Engine, you can check it out in my Repos
 
